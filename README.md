@@ -1,4 +1,4 @@
-# Algorithms-Combinations-Nodejs-React
+# Algorithms Combinations Nodejs React
 
 ![artboard 1](https://user-images.githubusercontent.com/6524612/37366071-307d29ee-26de-11e8-978e-b388cc7f29d9.png)
 
