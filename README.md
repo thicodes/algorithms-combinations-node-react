@@ -6,3 +6,5 @@ One of the issues when selecting a new telecom bundle for your house is the amou
 
 In the diagram, bundles can be mounted starting from any of the nodes and following the possible connections between nodes. The value on the connections represent additional price (positive numbers) or discounts (negative numbers) to get a bundle. Bundles can have several addons, but cannot have more than one broadband (type: "bb"), tv (type: "tv") or landline (type: "ll"). Each node has a "type", "price" and a name. If price is not present, price is equal to zero.
 
+![artboard 2](https://user-images.githubusercontent.com/6524612/37366322-e6c50488-26de-11e8-8996-872be087d872.png)
+
